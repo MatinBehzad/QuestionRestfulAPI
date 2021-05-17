@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.9.101-hotspot">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.payara.tools.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/matin/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.2/jackson-annotations-2.12.2.jar" sourcepath="C:/Users/matin/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.2/jackson-annotations-2.12.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="jackson-annotations-2.12.2.jar"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+			<attribute name="maven.artifactId" value="jackson-annotations"/>
+			<attribute name="maven.version" value="2.12.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/matin/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.12.2/jackson-datatype-jsr310-2.12.2.jar" sourcepath="C:/Users/matin/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.12.2/jackson-datatype-jsr310-2.12.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="jackson-datatype-jsr310-2.12.2.jar"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.datatype"/>
+			<attribute name="maven.artifactId" value="jackson-datatype-jsr310"/>
+			<attribute name="maven.version" value="2.12.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/matin/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.2/jackson-databind-2.12.2.jar" sourcepath="C:/Users/matin/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.2/jackson-databind-2.12.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="jackson-databind-2.12.2.jar"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+			<attribute name="maven.artifactId" value="jackson-databind"/>
+			<attribute name="maven.version" value="2.12.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/matin/.m2/repository/org/hibernate/hibernate-core/5.4.27.Final/hibernate-core-5.4.27.Final.jar" sourcepath="C:/Users/matin/.m2/repository/org/hibernate/hibernate-core/5.4.27.Final/hibernate-core-5.4.27.Final-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.hibernate"/>
+			<attribute name="maven.artifactId" value="hibernate-core"/>
+			<attribute name="maven.version" value="5.4.27.Final"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Algonquin/term4/java/payara5/glassfish/modules/jakarta.inject.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://jakarta.ee/specifications/platform/8/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Algonquin/term4/java/payara5/glassfish/modules/jakarta.annotation-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://jakarta.ee/specifications/platform/8/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
